@@ -1,0 +1,19 @@
+{
+  "name": "data_experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "showChart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asciichart": "^1.5.7",
+    "cheerio": "^1.0.0-rc.3",
+    "lodash": "^4.17.11",
+    "papaparse": "^4.6.3",
+    "request": "^2.88.0"
+  }
+}
